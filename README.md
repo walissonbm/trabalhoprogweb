@@ -1,5 +1,9 @@
 # Exemplo de aplicação PHP para a disciplina de Prog. Web
 
+## Credito
+
+[Maikon Bueno](https://github.com/maikonb/prog-web-php-produtos-heroku)
+
 ## Demonstração
 
 Demonstração feito pelo professor: [Acesse a demonstração aqui.](http://guarded-hollows-90344.herokuapp.com/)
